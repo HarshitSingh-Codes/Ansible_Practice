@@ -1,4 +1,5 @@
-## Assignment-04
+## Ansible Assignment-04
+### System Manager Role
 #### Manage Software
 - install software
 
@@ -26,10 +27,23 @@
   
 #### Manage Directory
 
+- add directory
+  ![image](https://github.com/HarshitSingh-Codes/Ansible_Practice/assets/67234531/e27682c2-18d4-4ca4-9af7-ca523ce5a91b)
+
+- delete directory
+
+  ![image](https://github.com/HarshitSingh-Codes/Ansible_Practice/assets/67234531/9a8b3eb0-e89f-4682-a356-4619e7001390)
 
 
 #### Manage GIT repo
 
+- clone public repo
+
+  ![image](https://github.com/HarshitSingh-Codes/Ansible_Practice/assets/67234531/236b4d03-6538-4180-a072-6e886ebc795c)
+
+- clone the private repo using a token
+
+![image](https://github.com/HarshitSingh-Codes/Ansible_Practice/assets/67234531/9c077a63-8f54-4056-a458-0df70e557b12)
 
 
 
