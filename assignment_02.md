@@ -11,7 +11,7 @@
 
       ansible tag_Name_ansible_02 -b -m apt -a "name=nginx state=present update_cache=yes"
 
-verify
+  verify
 
       ansible tag_Name_ansible_02 -m command -a “nginx -v”
 
