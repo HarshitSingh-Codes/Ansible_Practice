@@ -2,11 +2,6 @@
 
 ### Install nginx in your servers(more then 2) and make sure the log files of nginx should not be granted more than 1 GB space on the nodes
 
-
-
-
-
-
 - Install NGINX
 
       ansible tag_Name_ansible_02 -b -m apt -a "name=nginx state=present update_cache=yes"
